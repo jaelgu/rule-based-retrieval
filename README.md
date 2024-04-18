@@ -1,4 +1,4 @@
-# Rule-based Retrieval
+## Rule-based Retrieval
 
 [![Python Version](https://img.shields.io/badge/python-3.10%2B-blue)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/license-MIT-green)](https://opensource.org/licenses/MIT)
